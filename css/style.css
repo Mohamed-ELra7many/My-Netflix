@@ -203,6 +203,7 @@ nav .nav-container .nav-profile .toogle .toogle-ball.active{    /*dark-mode*/
 }
 .screen .container .movie-wrapper .Arrow:hover{
     opacity: 1;
+}
 
 .screen .container .screen-movie .movie-list{
     height: 300px;
